@@ -4,7 +4,7 @@ In this repository, I will be sharing my trainings in Codewars, I will be postin
 
 ### What is Codewars ?
 
-![](imgs/codewars.svg)
+![](imgs/codewars.jpg)
 
 Codewars is an online platform that proposes many coding challenges which can solved with many languages, the platform tests the code and verifies if the input/output are good.
 It is used to learn or to train.
