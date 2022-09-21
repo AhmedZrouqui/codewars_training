@@ -9,3 +9,11 @@ function narcissistic(value) {
     if(sum !== value) return false;
     return true;
 }
+
+//same function using reduce
+function narcissistic2(value){
+    if(String(value).length < 2) return true;
+    return String(value).split('').reduce((p, c) => {
+      return p + Math.pow(c, String(value).length);
+    }, 0) === value
+}
