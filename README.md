@@ -13,5 +13,11 @@ Link : https://codewars.com
 
 ### Which technologies will I be using 
 
+![](imgs/codewars.svg) ![](imgs/py.png) ![](imgs/ts.png) ![](imgs/csharp.png)
+
 In this repository, I will be using Javascript, Typescript, Python, C# and maybe other technologies.
+
+### Will I only be using Codewars? 
+
+Nope, I probably will be using Leetcode or Codingame too. 
 
