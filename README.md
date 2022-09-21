@@ -1,1 +1,2 @@
 # codewars_training
+In this repository, I will be sharing my trainings in Codeward, I will be posting codes in folders with date and name of the challenge, in addition of a brief description and link to the challenge.
